@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "spartans",
+      "platform": "snapchat",
+      "price": 75
+    },
+    {
       "name": "kindly",
       "platform": "snapchat",
       "price": 75
