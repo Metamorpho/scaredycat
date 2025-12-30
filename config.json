@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "footage",
+      "platform": "snapchat",
+      "price": 750
+    },
+    {
       "name": "insurance",
       "platform": "snapchat",
       "price": 500
