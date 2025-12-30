@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "kindly",
+      "platform": "snapchat",
+      "price": 75
+    },
+    {
       "name": "multiverse",
       "platform": "discord",
       "price": 750
