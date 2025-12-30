@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "reinforcing",
+      "platform": "discord",
+      "price": 50
+    },
+    {
       "name": "pubescent",
       "platform": "epicgames",
       "price": 75
