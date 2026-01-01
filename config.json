@@ -171,11 +171,6 @@
       "price": 500
     },
     {
-      "name": "girlscout",
-      "platform": "discord",
-      "price": 150
-    },
-    {
       "name": "shovel",
       "platform": "epicgames",
       "price": 300
