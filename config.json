@@ -5131,11 +5131,6 @@
       "price": 150
     },
     {
-      "name": "offline",
-      "platform": "epicgames",
-      "price": 300
-    },
-    {
       "name": "warned",
       "platform": "epicgames",
       "price": 150
