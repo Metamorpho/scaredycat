@@ -206,11 +206,6 @@
       "price": 500
     },
     {
-      "name": "ylp",
-      "platform": "epicgames",
-      "price": 25
-    },
-    {
       "name": "expunge",
       "platform": "discord",
       "price": 100
