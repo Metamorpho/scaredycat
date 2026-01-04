@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "epikwhale",
+      "platform": "epicgames",
+      "price": 100
+    },
+    {
       "name": "inseminate",
       "platform": "discord",
       "price": 300
