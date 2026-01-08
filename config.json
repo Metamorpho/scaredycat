@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "e4k",
+      "platform": "epicgames",
+      "price": 15
+    },
+    {
       "name": "7al",
       "platform": "epicgames",
       "price": 15
