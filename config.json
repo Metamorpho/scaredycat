@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "carelessness",
-      "platform": "discord",
-      "price": 100
-    },
-    {
       "name": "mainecoon",
       "platform": "steam",
       "price": "offer"
