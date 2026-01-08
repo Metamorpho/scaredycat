@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "mainecoon",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "krustykrab",
       "platform": "steam",
       "price": "offer"
