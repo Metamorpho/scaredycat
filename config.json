@@ -3661,11 +3661,6 @@
       "price": 2500
     },
     {
-      "name": "mjolnir",
-      "platform": "telegram",
-      "price": 400
-    },
-    {
       "name": "fazbear",
       "platform": "telegram",
       "price": 400
