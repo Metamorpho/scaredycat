@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "envisi*ning",
+      "platform": "discord",
+      "price": 100
+    },
+    {
       "name": "b*ils",
       "platform": "discord",
       "price": 100
