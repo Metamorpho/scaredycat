@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "m*diocre",
+      "platform": "github",
+      "price": 250
+    },
+    {
       "name": "pomeranian",
       "platform": "steam",
       "price": "offer"
