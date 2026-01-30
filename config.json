@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "misdemeanor",
+      "platform": "steam",
+      "price": "offer"
+    },
+    {
       "name": "st*ckpile",
       "platform": "disocrd",
       "price": 175
